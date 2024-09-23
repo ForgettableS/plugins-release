@@ -1,0 +1,18 @@
+[
+    {
+        "projectUrl": "https://discord.gg/mgXhVDUEUq",
+        "provider": "SC",
+        "name": "Rooftop Agility",
+        "description": "Partially ported iRooftops (by illumine), example of how ReflectBreakHandler can be used for chinbreakhandler",
+        "id": "rooftop-agility-plugin",
+        "releases": [
+            {
+                "date": "2024-09-23",
+                "sha512sum": "52d10f35594528a0fed55594339462933fe8cdfd2d78f96c7effa95b8bc73fd2b9c27486064f684265986a71af250e894f7e8697753860f713858813a8caf66c",
+                "version": "1.0.0",
+                "url": "https://github.com/ForgettableS/plugins-release/blob/master/release/rooftop-agility-1.0.0.jar?raw=true",
+                "requires": "^1.0.0"
+            }
+        ]
+    }
+]
